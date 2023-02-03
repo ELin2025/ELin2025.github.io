@@ -20,12 +20,12 @@
 #Gmail{
     position:fixed;
     bottom:10px;
-    left:60px;
+    left:55px;
 }
 #Github{
     position:fixed;
     bottom:10px;
-    left: 110px;
+    left : 100px;
 }
 #line{
     width:100%;
